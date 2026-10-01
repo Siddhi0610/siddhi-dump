@@ -7,3 +7,5 @@ tech stack - yet to discover. would learn something new
 system architecture - yet to design. need a rough mvp idea first.
 <br>
 project plan - dk, would plan after cleaning my room
+<br>
+still not began. 1 day more wasted on bs assignments 
